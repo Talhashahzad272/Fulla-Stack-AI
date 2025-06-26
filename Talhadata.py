@@ -1,0 +1,6 @@
+name = input("Please enter your name\n")
+print("My name is:" + name)
+age = input("Please enter your age\n")
+print("My age is:" + age)
+collage_name = input("please enter your collage_name\n")
+print("My colage_name is:" + collage_name)
